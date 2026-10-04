@@ -10,7 +10,7 @@
 -- Tool Versions: 
 -- Description: Constant Addition Operation
 -- 
--- Dependencies: package.types
+-- Dependencies: package.std_logic_1164, package.types
 -- 
 -- Revision: B0
 -- Revision 0.01 - File Created

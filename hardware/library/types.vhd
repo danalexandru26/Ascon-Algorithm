@@ -10,11 +10,11 @@
 -- Tool Versions: 
 -- Description: Types and Constants
 -- 
--- Dependencies: 
+-- Dependencies: package.std_logic_1164, package.numeric_std
 -- 
 -- Revision: B0
 -- Revision 0.01 - File Created
--- Additional Comments:
+-- Additional Comments: LSB First Ordering
 -- 
 ----------------------------------------------------------------------------------
 
